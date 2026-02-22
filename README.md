@@ -9,7 +9,7 @@ Live demo:
 <p align="center">
   <img src="https://github.com/LosBandidox/Portfolio/raw/main/Assets/screenshots/homepage.png" alt="Portfolio Homepage Preview" width="800"/>
   <br><br>
-  <em>Screenshot of the homepage (hero + about section)</em>
+  <em>Screenshot of the homepage</em>
 </p>
 
 ## ✨ Features
